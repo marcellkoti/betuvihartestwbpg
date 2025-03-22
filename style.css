@@ -1,0 +1,39 @@
+body{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: large;
+}
+
+.ka{
+    display: flex;
+    justify-content: center;  /* Vízszintes középre igazítás */
+    align-items: center;      /* Függőleges középre igazítás */
+    height: 100vh;      
+}
+.font{
+   
+   font-weight: bold;
+    text-align: center;
+    
+}
+.ja{
+    text-align:left ;
+    text-decoration: underline;
+    font-weight: bolder;
+    font-style: italic;
+}
+
+.szabaly{
+font-weight: bold;
+font-size: larger;
+text-align: justify;
+}
+.come{
+    text-align: center;
+}
+.back{
+text-align: center;
+
+}
+.a{
+    text-align: center;
+}
